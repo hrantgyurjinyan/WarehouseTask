@@ -1,2 +1,0 @@
-# WarehouseTask
-Warehouse Management System
